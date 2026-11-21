@@ -21,7 +21,7 @@
 
 ## 🛠️ My Skills
 
-<img src="https://skillicons.dev/icons?i=callofduty" />
+<img src="https://skillicons.dev/icons?i=telegram" />
 
 ## 📊 GitHub Stats
 
