@@ -18,10 +18,10 @@
 - 🌱 Currently learning Programming
 - 💻 Interested in Software Development
 - 🚀 Building new projects
+- 🎮 Gamer
 
 ## 🛠️ My Skills
 
-<img src="https://img.shields.io/badge/Gaming-Lover-purple?style=for-the-badge" >
 
 ## 📊 GitHub Stats
 
