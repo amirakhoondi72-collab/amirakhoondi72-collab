@@ -22,7 +22,7 @@
 
 ## 🛠️ My Skills
 
-NOT YET 😁👍
+😁👍
 
 ## 📊 GitHub Stats
 
