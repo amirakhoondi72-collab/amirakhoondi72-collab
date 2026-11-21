@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-s17.amir_1.618-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gold_pulse1)p
+[![Instagram](https://img.shields.io/badge/Instagram-s17.amir_1.618-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gold_pulse1)
 
 
 [![Telegram](https://img.shields.io/badge/Telegram-S17_Amir_1_618-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S17_Amir_1_618)
