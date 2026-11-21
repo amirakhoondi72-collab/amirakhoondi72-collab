@@ -7,9 +7,10 @@
 
 ### Computer Engineering Student 💻
 
-<img src="YOUR_BANNER_URL" width="100%">
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amirakhoondi72-collab/amirakhoondi72-collab/main/banner.png" width="100%">
 </div>
+
 
 ## 👨‍💻 About Me
 
