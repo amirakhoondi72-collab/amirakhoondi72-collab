@@ -1,6 +1,38 @@
 ## Hi there 👋
 
 
+<div align="center">
+
+# Hi, I'm Amir 👋
+
+### Computer Engineering Student 💻
+
+<img src="YOUR_BANNER_URL" width="100%">
+
+</div>
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Engineering Student
+- 🌱 Currently learning Programming
+- 💻 Interested in Software Development
+- 🚀 Building new projects
+
+## 🛠️ My Skills
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,git,github" />
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+## 🌐 Connect With Me
+
+[GitHub](https://github.com/YOUR_USERNAME)
+
+
+
+
 [![Instagram](https://img.shields.io/badge/Instagram-s17.amir_1.618-E4405F?style=for-the-badge&logo=instagram&logoColor=red)](https://instagram.com/gold_pulse1)
 
 
