@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+[![Telegram](https://img.shields.io/badge/Telegram-S17_Amir_1_618-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/S17_Amir_1_618)
+
 <!--
 **amirakhoondi72-collab/amirakhoondi72-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
