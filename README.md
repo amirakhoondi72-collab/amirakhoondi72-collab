@@ -21,7 +21,7 @@
 
 ## 🛠️ My Skills
 
-<img src="https://skillicons.dev/icons?i=c++" />
+<img src="https://skillicons.dev/icons?i=😁👍" />
 
 ## 📊 GitHub Stats
 
