@@ -21,7 +21,7 @@
 
 ## 🛠️ My Skills
 
-<img src="https://skillicons.dev/icons?i=😁👍" />
+<img src="https://img.shields.io/badge/Gaming-Lover-purple?style=for-the-badge" >
 
 ## 📊 GitHub Stats
 
